@@ -1,0 +1,8 @@
+[provider]
+cluster = "localnet"
+wallet = "/home/teddytomas/.config/solana/id.json"
+signalprovider = "/home/teddytomas/.config/solana/signal-provider-id.json"
+
+[[test.genesis]]
+address = "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+program = "./deps/dex/target/deploy/serum_dex.so"
