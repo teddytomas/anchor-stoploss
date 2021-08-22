@@ -1,7 +1,6 @@
-# Swap
+# Stoploss
 
-An example swap program that provides a convenient API to the Serum orderbook
-for performing instantly settled token swaps.
+A stoploss program that uses vaults to provide asynchronous execution
 
 ## Usage
 
